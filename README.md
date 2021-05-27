@@ -1,6 +1,11 @@
 # destiny
 
-A new Flutter application.
+A choose your own Adventure story game.
+
+
+https://user-images.githubusercontent.com/51168410/119771107-c90aac80-beda-11eb-9729-24e9f3ef7705.mp4
+
+
 
 ## Getting Started
 
